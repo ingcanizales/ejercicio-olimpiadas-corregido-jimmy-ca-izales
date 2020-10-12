@@ -1,0 +1,6 @@
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\bin\Debug\Modelo.dll
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\obj\Debug\Modelo.dll
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,9 @@
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\bin\Debug\Controlador.dll
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\bin\Debug\Modelo.dll
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\obj\Debug\Controlador.dll
+C:\Users\ingca\OneDrive\Documentos\ProyectoOlimpiadas-Ejemplo2MVC\Olimpiadas(Vista)-PorCorregir\Controlador\obj\Debug\Controlador.pdb
